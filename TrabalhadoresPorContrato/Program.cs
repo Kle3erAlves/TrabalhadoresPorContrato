@@ -10,7 +10,7 @@ namespace TrabalhadoresPorContrato
         static void Main(string[] args)
         {
             //Imprimindo na tela e recebendo os dados do trabalhador e do departamento
-            Console.Write("Enter department's name: ");
+            Console.Write("****Enter department's name: ");
             string deptName = Console.ReadLine();
             Console.WriteLine("Enter work date: ");
             Console.Write("Name: ");
