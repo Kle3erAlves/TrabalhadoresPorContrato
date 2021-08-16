@@ -1,0 +1,13 @@
+C:\Users\klebe\source\repos\TrabalhadoresPorContrato\TrabalhadoresPorContrato\bin\Debug\netcoreapp3.1\TrabalhadoresPorContrato.exe
+C:\Users\klebe\source\repos\TrabalhadoresPorContrato\TrabalhadoresPorContrato\bin\Debug\netcoreapp3.1\TrabalhadoresPorContrato.deps.json
+C:\Users\klebe\source\repos\TrabalhadoresPorContrato\TrabalhadoresPorContrato\bin\Debug\netcoreapp3.1\TrabalhadoresPorContrato.runtimeconfig.json
+C:\Users\klebe\source\repos\TrabalhadoresPorContrato\TrabalhadoresPorContrato\bin\Debug\netcoreapp3.1\TrabalhadoresPorContrato.runtimeconfig.dev.json
+C:\Users\klebe\source\repos\TrabalhadoresPorContrato\TrabalhadoresPorContrato\bin\Debug\netcoreapp3.1\TrabalhadoresPorContrato.dll
+C:\Users\klebe\source\repos\TrabalhadoresPorContrato\TrabalhadoresPorContrato\bin\Debug\netcoreapp3.1\TrabalhadoresPorContrato.pdb
+C:\Users\klebe\source\repos\TrabalhadoresPorContrato\TrabalhadoresPorContrato\obj\Debug\netcoreapp3.1\TrabalhadoresPorContrato.csprojAssemblyReference.cache
+C:\Users\klebe\source\repos\TrabalhadoresPorContrato\TrabalhadoresPorContrato\obj\Debug\netcoreapp3.1\TrabalhadoresPorContrato.AssemblyInfoInputs.cache
+C:\Users\klebe\source\repos\TrabalhadoresPorContrato\TrabalhadoresPorContrato\obj\Debug\netcoreapp3.1\TrabalhadoresPorContrato.AssemblyInfo.cs
+C:\Users\klebe\source\repos\TrabalhadoresPorContrato\TrabalhadoresPorContrato\obj\Debug\netcoreapp3.1\TrabalhadoresPorContrato.csproj.CoreCompileInputs.cache
+C:\Users\klebe\source\repos\TrabalhadoresPorContrato\TrabalhadoresPorContrato\obj\Debug\netcoreapp3.1\TrabalhadoresPorContrato.dll
+C:\Users\klebe\source\repos\TrabalhadoresPorContrato\TrabalhadoresPorContrato\obj\Debug\netcoreapp3.1\TrabalhadoresPorContrato.pdb
+C:\Users\klebe\source\repos\TrabalhadoresPorContrato\TrabalhadoresPorContrato\obj\Debug\netcoreapp3.1\TrabalhadoresPorContrato.genruntimeconfig.cache
